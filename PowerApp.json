@@ -507,7 +507,7 @@
                   "Property":"HoverColor",
                   "InvariantScript":"RGBA(255, 255, 255, 1)"
                },
-               {  
+               { 
                   "DefaultSetting":"RGBA(62,96,170,1)",
                   "Property":"Fill",
                   "InvariantScript":"RGBA(56, 96, 178, 1)"
@@ -585,7 +585,7 @@
                {  
                   "DefaultSetting":null,
                   "Property":"Text",
-                  "InvariantScript":"\"Nice Button\""
+                  "InvariantScript":"\"Really Nice Button\""
                }
             ]
          }
